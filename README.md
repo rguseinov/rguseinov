@@ -6,9 +6,9 @@ My research interests lie at the intersection of contentious politics, political
 
 I have an R package that may interest you.
 
-| Package | Stars | Description |
+| Package | Downloads | Description |
 |---------|-------|-------------------|
-| [`contentiousR`](https://github.com/rguseinov/contentiousR) | ![stars](https://img.shields.io/github/stars/rguseinov/contentiousR?style=flat) | An R package for contentious politics and civil conflict research |
+| [`contentiousR`](https://github.com/rguseinov/contentiousR) | ![downloads](https://cranlogs.r-pkg.org/badges/grand-total/contentiousR) | An R package for contentious politics and civil conflict research |
 
 <!--
 **rguseinov/rguseinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
