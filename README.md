@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Ruslan Guseinov. I am a Political Science MA student at the [University of Mannheim](https://www.uni-mannheim.de/en/) (Germany) and a Research Assistant at [GESIS - Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home), Computational Social Science Department.
+
+My research interests lie at the intersection of contentious politics, political violence, and computational social science, with a methodological focus on advanced quantitative methods and causal inference. I primarily study causes and consequences of revolutions — mass movements to overthrow an existing regime to bring new social and political order. My work has been published in _Defence and Peace Economics_ and _Political Studies Review_.
+
+I have an R package that may interest you.
+
+| Package | Stars | Description |
+|---------|-------|-------------------|
+| [`contentiousR`](https://github.com/rguseinov/contentiousR) | ![stars](https://img.shields.io/github/stars/rguseinov/contentiousR?style=flat) | An R package for contentious politics and civil conflict research |
+
 <!--
 **rguseinov/rguseinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
