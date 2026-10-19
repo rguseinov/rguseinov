@@ -8,7 +8,7 @@ I have an R package that may interest you.
 
 | Package | Downloads | Description |
 |---------|-------|-------------------|
-| [`contentiousR`](https://github.com/rguseinov/contentiousR) | ![downloads](https://cranlogs.r-pkg.org/badges/grand-total/contentiousR) | An R package for contentious politics and civil conflict research |
+| [`contentiousR`](https://rguseinov.github.io/contentiousR/) | ![downloads](https://cranlogs.r-pkg.org/badges/grand-total/contentiousR) | An R package for contentious politics and civil conflict research |
 
 <!--
 **rguseinov/rguseinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
